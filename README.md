@@ -95,6 +95,7 @@ vib-ai-docs/
 └── assets/
     ├── images/
     └── logos/
+```
 
 ## Related Repositories
 
