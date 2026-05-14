@@ -95,3 +95,23 @@ vib-ai-docs/
 └── assets/
     ├── images/
     └── logos/
+
+## Related Repositories
+
+- `vib-ai`  
+  Main product overview and public resources for VIB AI.
+
+- `vib-world`  
+  World model concepts and architecture behind VIB AI.
+
+- `smart-task-agents`  
+  Smart Task Agent framework for workflow execution and reviewable completion.
+
+- `data-contribution-guide`  
+  Public guide for AI data contribution, Quick Review, Collection, and quality standards.
+
+## Repository Status
+
+This repository is maintained as an official public documentation resource for VIB AI.
+
+It may include public user guides, product explanations, screenshots, FAQs, and launch-related documentation.
